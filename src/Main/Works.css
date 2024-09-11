@@ -1,0 +1,46 @@
+#inclusive{
+background-color: rgb(46, 39, 39);
+  padding: 10px;
+  display: block;
+    width:100%;
+}
+#header{
+    height: 8%;
+    width: 100%;
+    padding: 5px;
+    border-bottom-style: solid ;
+    border-width: 0.5px;
+}
+.orange-text{
+    color: rgb(208, 133, 46);
+  }
+.circle {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(208, 133, 46); /* Renk kodunu buradan değiştirebilirsiniz */
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 5px;
+   
+}
+.works-row{
+    
+    height: 20%;
+    display: flex;
+    
+}
+.title{
+    display: flex;
+}
+.works-row-left{
+    padding: 5px;
+    height: 100%;
+    width: 30%;
+    border-right-style: solid;
+}
+.works-row-right{
+    padding: 5px;
+    height: 100%;
+    width: 70%;
+    
+}

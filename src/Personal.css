@@ -1,0 +1,72 @@
+#personal-inclusive{
+    
+    width:100%;
+    height: 700px;
+    display: block;
+    box-shadow: -10px -10px 5px rgb(46, 39, 39);
+    
+    
+}
+#Peronal-foto-inclusive{
+    width: 100%;
+    height: 90%;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(46, 39, 39);
+    background-size: cover; /* Resmin kutuya sığmasını sağlar */
+    background-position: center;
+}
+#personal-under{
+    width: 100%;
+    height: 10%;
+    border-style: solid;
+    border-color: black;
+}
+#personal-foto{
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+    height: 150px;
+    margin-top: 50%;
+    margin-left: 30%;
+    border-radius: 80px;
+    box-shadow: -10px -10px 5px rgb(52, 51, 51);
+    background-size: cover; /* Resmin kutuya sığmasını sağlar */
+    background-position: center;
+
+}
+#social-media{
+    width: 100%;
+    height: 130px;
+    align-items: center;
+    text-align: center;
+    
+
+}
+#social-media h3{
+    color: burlywood;
+    font-size: 30px;
+    
+}
+#social-media h4{
+    color: burlywood;
+    font-size: 20px;
+}
+.btn-social-media{
+    width: 40px;
+    height: 40px;
+    border-style: solid;
+    border-color: black;
+}
+.btn-social-media:hover{
+    color: rgb(208, 133, 46)
+}
+.btn-under-foto{
+    width: 50%;
+    height: 100%;
+    color: aliceblue;
+    background-color:rgb(46, 39, 39);
+}
+.btn-under-foto:hover{
+    color: rgb(208, 133, 46);
+}

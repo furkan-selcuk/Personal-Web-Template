@@ -1,0 +1,75 @@
+/* Contact.css */
+#inclusive{
+    background-color: rgb(46, 39, 39);
+  padding: 10px;
+  display: block;
+    width:100%;
+}
+.contact-form {
+    margin-left: 50px;
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgb(46, 39, 39);
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .send-button {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .send-button:hover {
+    background-color: rgb(208, 133, 46);
+  }
+  #bottom-part{
+    display: flex;
+    flex-wrap: wrap;
+    height: 150px;
+    width: 100%;
+    
+    margin-top: 20px;
+  }
+  .bottom-part-row{
+    flex-grow: 1;
+    flex-basis: 200;
+    border-right-style: solid;
+    padding: 10px;
+    border-width: 0.5px;
+  }
+  .logo-title{
+    font-size: large;
+    
+  }
+  #logo1{
+    color: orange;
+    font-size:x-large;
+  }
+  #logo2{
+    color: orange;
+    font-size:x-large;
+  }
+  #logo3{
+    color: orange;
+    font-size:x-large;
+  }
+  
